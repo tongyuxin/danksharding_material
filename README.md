@@ -17,4 +17,4 @@
 * Dankrad分片策略：https://notes.ethereum.org/@dankrad/new_sharding
 * 对分片+ DAS方案的解释：https://hackmd.io/@vbuterin/sharding_proposal
 * Dankrad,Proto,Vitalik对分片的讨论：https://www.youtube.com/watch?v=N5p0TB77flM
-* “DankSharding”教育研讨会：https://www.youtube.com/watch?v=e9oudTr5BE4
+* “DankSharding”研讨会：https://www.youtube.com/watch?v=e9oudTr5BE4
